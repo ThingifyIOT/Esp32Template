@@ -1,0 +1,6 @@
+[submodule "lib/ThingifyEsp"]
+	path = lib/ThingifyEsp
+	url = git@github.com:ThingifyIOT/ThingifyEsp.git
+[submodule "lib/FixedString"]
+	path = lib/FixedString
+	url = git@github.com:toomasz/FixedString.git
